@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShakeDemo</string>
+    <string name="ui_shake_title">Shake Sensor Demo</string>
+</resources>
