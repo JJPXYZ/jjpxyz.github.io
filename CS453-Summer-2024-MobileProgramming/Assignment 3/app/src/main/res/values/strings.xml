@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GMapsTutorial</string>
+    <string name = "my_map_api_key">AIzaSyAX98x-c4WZ1hia0PhJsJf3igM2qS7JOHY</string>
+</resources>
